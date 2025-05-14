@@ -20,6 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 Flutter 3.29.3 • channel stable
 Tools • Dart 3.7.2 • DevTools 2.42.3
 
+User Login: admin Password:12345
+OTP: 0011
+
 - สถาปัตยกรรมและการออกแบบระบบ
 MVC
 
