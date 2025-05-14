@@ -1,0 +1,90 @@
+{
+    "applicationSubmitted": [
+        {
+            "title": "Application Submitted",
+            "status": "Pass",
+            "date": "10 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Initial Review",
+            "status": "In progress",
+            "date": ""
+        },
+        {
+            "title": "Document Verification",
+            "status": "Pending",
+            "date": ""
+        },
+        {
+            "title": "Final Approval",
+            "status": "Pending",
+            "date": ""
+        }
+    ],
+    "initialReview": [
+        {
+            "title": "Application Submitted",
+            "status": "Pass",
+            "date": "10 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Initial Review",
+            "status": "Pass",
+            "date": "11 May 2025, 10:45 PM"
+        },
+        {
+            "title": "Document Verification",
+            "status": "In progress",
+            "date": ""
+        },
+        {
+            "title": "Final Approval",
+            "status": "Pending",
+            "date": ""
+        }
+    ],
+    "documentVerification": [
+        {
+            "title": "Application Submitted",
+            "status": "Pass",
+            "date": "10 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Initial Review",
+            "status": "Pass",
+            "date": "11 May 2025, 09:42 PM"
+        },
+        {
+            "title": "Document Verification",
+            "status": "Pass",
+            "date": "12 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Final Approval",
+            "status": "Pending",
+            "date": ""
+        }
+    ],
+    "finalApproval": [
+        {
+            "title": "Application Submitted",
+            "status": "Pass",
+            "date": "10 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Initial Review",
+            "status": "Pass",
+            "date": "11 May 2025, 09:42 PM"
+        },
+        {
+            "title": "Document Verification",
+            "status": "Pass",
+            "date": "12 May 2025, 10:42 PM"
+        },
+        {
+            "title": "Final Approval",
+            "status": "Pass",
+            "date": "13 May 2025, 10:15 PM"
+        }
+    ]
+}
